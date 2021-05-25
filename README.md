@@ -8,6 +8,7 @@ Modules
 -Human Resource-this is where a codinate of people makes sure that everything in a work place run smoothly by organisation,its mainly focuced on human labour,employee wages and salaries,mostly employees details.
 
 functions
+
 -gender()
 -age()
 -location()
