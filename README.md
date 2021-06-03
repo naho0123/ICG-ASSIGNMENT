@@ -11,6 +11,9 @@ Modules
 
 -Human Resource-this is where a codinate of people makes sure that everything in a work place run smoothly by organisation,its mainly focuced on human labour,employee wages and salaries,mostly employees details.some benefits of having human resource in a business is recruitment and retantion,this will help the business to be acquiring qualified employees in the business,retaining them in the business,giving the appropriate training to know more about their job.
 
+-Administration and General Management-this is the process of running the business and a place where public affairs are managed.
+This is how the organisation is managed in terms of organisation, regulating policies and making objectives to achieving the goals of the business effectively and effieciently.
+
 Functions
 
 - gender()
@@ -25,6 +28,7 @@ CONTRIBUTORS
 - 221092889 LOLI LISOMA LONYOME
 - 220091501 ANTHONY S. CHIKA
 - 220074747 FRAVIANUS SHIKATU
+- 221055207 JANE N. SIMATAA
 
 
 
